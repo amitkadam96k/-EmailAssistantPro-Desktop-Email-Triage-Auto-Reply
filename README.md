@@ -23,7 +23,7 @@ Install from the `requirements.txt` file — the key packages are:
 
 ⚡ Quick setup (Windows PowerShell)
 ```powershell
-cd 'C:\Users\kadam\OneDrive\Desktop\email'
+cd 'C:\Users\***\OneDrive\Desktop\email'
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
 pip install -r requirements.txt
@@ -63,4 +63,5 @@ requirements.txt
 
 🤝 Contributing
 - Pull requests are welcome — suggested improvements include better classification rules, error handling, automated tests, and an installer/packaging setup.
+
 
