@@ -1,0 +1,15 @@
+# Requirements for EmailAssistantPro
+# Run: pip install -r requirements.txt
+
+# GUI & Tkinter custom themed widget set
+customtkinter>=5.0.0
+
+# Securely store and retrieve credentials
+keyring>=23.0
+
+# PDF creation (fpdf2 is modern and compatible with `from fpdf import FPDF`)
+fpdf2>=2.5.0
+
+# Optional (if you plan to package the app):
+# pyinstaller
+# tk (on Linux) - not a pip package, install via system package manager
